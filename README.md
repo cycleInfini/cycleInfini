@@ -20,9 +20,9 @@
 </p> -->
 
  <p align="center">
-  <img src="https://img.shields.io/badge/CHARACTER-Revolutionary-8B4513?style=for-the-badge&logo=target&logoColor=white"/>
-   <img src="https://img.shields.io/badge/VALUES-Faith%20Driven-6B8E23?style=for-the-badge&logo=mosque&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STANCE-Independent-2F4F2F?style=for-the-badge&logo=libreoffice&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CHARACTER-Revolutionary-3A6EA5?style=for-the-badge&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/VALUES-Faith%20Driven-4F91C6?style=for-the-badge&logo=mosque&logoColor=white"/>
+<img src="https://img.shields.io/badge/STANCE-Independent-1E3F66?style=for-the-badge&logo=libreoffice&logoColor=white"/>
  </p>
 
 <!---
@@ -32,7 +32,7 @@
 </p>
 --->
 <h1 align="center">
-  <img  src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=23&center=true&vCenter=true&width=850&color=556B2F&duration=3500&lines=Yalnız%20iman%20ve%20fikir,%20ne%20sevgili%20ne%20kardeş.;Bir%20akıl%20gelecek%20ki,%20akıllar%20delirecek.;Ve%20bir%20devrim,%20evvela%20devrimi%20devirecek.;Her%20şey%20birbirine%20denk,%20her%20şey%20birbirine%20eş." />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=23&center=true&vCenter=true&width=850&color=2596BE&duration=3500&lines=Your%20story%20was%20written%20before%20you%20could%20read%20it.;Pain%20travels%20like%20inheritance." />
 </h1>
 <!---
 ### 🎖️ Operative Briefing
@@ -56,37 +56,42 @@
 ---
 
 ### 🏆 GitHub Trophies
-<!-- <p align="center">
-  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=bahattinyunus&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</p> -->
+ <p align="center">
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=cycleInfini&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+</p> 
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="center">
   <!-- Programming Languages -->
-  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="https://en.cppreference.com/w/c/language"><img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/></a>
-  <!-- Web Technologies -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <!-- AI/ML Tools -->
-  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
-  <!-- DevOps & Tools -->
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
-  <!-- Hardware & IoT -->
-  <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
-  <a href="https://www.raspberrypi.org/"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/></a>
-  <a href="https://micropython.org/"><img src="https://img.shields.io/badge/MicroPython-2D2D2D?style=for-the-badge&logo=micropython&logoColor=white"/></a>
-  <!-- Other Tools -->
-  <a href="https://smallbasic.github.io/"><img src="https://img.shields.io/badge/Small%20Basic-68217A?style=for-the-badge&logo=small-basic&logoColor=white"/></a>
-  <a href="https://mblock.makeblock.com/"><img src="https://img.shields.io/badge/mBlock-0096D6?style=for-the-badge&logo=makeblock&logoColor=white"/></a>
+ <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3A6EA5?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-1E3F66?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+<a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-4F91C6?style=for-the-badge&logo=go&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-5DA9E9?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="https://en.cppreference.com/w/c/language"><img src="https://img.shields.io/badge/C-2C5F8A?style=for-the-badge&logo=c&logoColor=white"/></a>
+
+<!-- Web Technologies -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-3D7BB6?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1B4F72?style=for-the-badge&logo=css3&logoColor=white"/></a>
+
+<!-- AI/ML Tools -->
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-6FA7D9?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-2A6F97?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
+
+<!-- DevOps & Tools -->
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-274C77?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0A84C1?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-89C2D9?style=for-the-badge&logo=linux&logoColor=black"/></a>
+
+<!-- Hardware & IoT -->
+<a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-4B9CD3?style=for-the-badge&logo=arduino&logoColor=white"/></a>
+<a href="https://www.raspberrypi.org/"><img src="https://img.shields.io/badge/Raspberry%20Pi-1A4A74?style=for-the-badge&logo=raspberrypi&logoColor=white"/></a>
+<a href="https://micropython.org/"><img src="https://img.shields.io/badge/MicroPython-123E56?style=for-the-badge&logo=micropython&logoColor=white"/></a>
+
+<!-- Other Tools -->
+<a href="https://smallbasic.github.io/"><img src="https://img.shields.io/badge/Small%20Basic-5C88C4?style=for-the-badge&logo=small-basic&logoColor=white"/></a>
+<a href="https://mblock.makeblock.com/"><img src="https://img.shields.io/badge/mBlock-3B8AC4?style=for-the-badge&logo=makeblock&logoColor=white"/></a>
 </p>
 
 ---
@@ -95,7 +100,6 @@
 
 #### 🐍 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python%201-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 1"/>
   <img src="https://img.shields.io/badge/Python%202-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 2"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
