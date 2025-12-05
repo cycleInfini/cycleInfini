@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://imgs.search.brave.com/okjpVLcrzYE0wJkiGk2n9POhlBEEUyRASgZmOrnqxoo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL1Mv/cHYtdGFyZ2V0LWlt/YWdlcy9iOTNhNTk2/MTE2M2MyOTQ2MzIw/MzhjZDM2NzJjY2Ix/ZTUyMWY2ZTRhM2Y0/NjEzZTYxY2Y5MTNh/NThiZDZlNmY5LnBu/Zw"  width="160" />
+  <img src="https://imgs.search.brave.com/okjpVLcrzYE0wJkiGk2n9POhlBEEUyRASgZmOrnqxoo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL1Mv/cHYtdGFyZ2V0LWlt/YWdlcy9iOTNhNTk2/MTE2M2MyOTQ2MzIw/MzhjZDM2NzJjY2Ix/ZTUyMWY2ZTRhM2Y0/NjEzZTYxY2Y5MTNh/NThiZDZlNmY5LnBu/Zw"  width="360" />
     <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&duration=3500&pause=1000&color=2596BE&center=true&vCenter=true&width=650&lines=Results+unbearable...;+CYCLEINFINI+" />
   </h1>
