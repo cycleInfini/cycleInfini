@@ -6,7 +6,8 @@
   </h1>
 
 ---
-<img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" />
+<!-- <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" /> -->
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 ---
 
 <div align="center">
